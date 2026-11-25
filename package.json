@@ -1,0 +1,13 @@
+{
+  "name": "formulario-registro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Formulario de registro con validación en vivo (práctica DevOps)",
+  "scripts": {
+    "test": "jest",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
